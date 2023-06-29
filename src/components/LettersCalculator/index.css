@@ -1,0 +1,15 @@
+.navbar-container {
+  font-size: 30px;
+  padding: 10px;
+  color: white;
+  background-color: skyblue;
+}
+
+.nav-link {
+  color: white;
+}
+.navLogo {
+  height: 30px;
+  width: 35px;
+  border: none;
+}
